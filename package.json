@@ -1,0 +1,12 @@
+{
+  "name": "identor.github.io",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://identor@github.com/identor/identor.github.io.git"
+  },
+  "author": "Irvin Denzel Torcuato",
+  "bugs": {
+    "url": "https://github.com/identor/identor.github.io/issues"
+  }
+}
