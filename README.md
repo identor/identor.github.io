@@ -1,26 +1,16 @@
 identor.github.io
 =================
-
-Irvin Denzel Torcuato's github.io page.
-
 ### Welcome to wiwi.ninja! (Site under construction)
 Patience, a true Ninja's virtue.
 
 ***
 
-### For more details check the Internet.
+### I'm all over the Internet check these out:
 * [Google+](https://plus.google.com/u/0/101877892836646790342)
 * [facebook](https://facebook.com/identor)
 * Send me an E-mail: irvin@wiwi.ninja
+* Want my CV? [here!](/assets/Resume.pdf)
 
 ***
 
-My journey to becoming a ninja. Want me CV? [here](/assets/Resume.pdf)!
-
-***
-
-### Watch out! Updates are coming.
-
-***
-
-### To be continued...
+### Watch out! Updates are coming. To be continued...
