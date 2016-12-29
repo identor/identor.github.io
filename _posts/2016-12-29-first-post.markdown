@@ -8,5 +8,5 @@ categories: test
 
 Recently migrated this website to jekyll.
 
-This is the first post in this blog, will be some more posts in a bit.
+This is the first post in this blog, will be writting some more posts in a bit.
 
